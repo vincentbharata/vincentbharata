@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Bharata</h1>
-<h3 align="center">🚀 Passionate about backend, curious about mobile, always learning!</h3>
+<h3 align="center">🚀 Passionate about Data</h3>
 
 ---
 
